@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_model" label="Hardware Model" max_length="40" name="cmdb_hardware_product_model" sizeclass="80" type="collection">
+        <element label="Series" max_length="32" name="x_155661_enter_dra_series" reference="x_155661_enter_dra_model_series" type="reference"/>
+        <index name="index">
+            <element name="x_155661_enter_dra_series"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Model series</name>
+        <order/>
+        <roles>x_155661_enter_dra.model_series_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-16 07:26:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>93542b662f012010e79a18aa2799b65c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Model series</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="enter dragon" source="x_155661_enter_dra">0e3423662f012010e79a18aa2799b662</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="enter dragon">0e3423662f012010e79a18aa2799b662</sys_scope>
+        <sys_update_name>sys_ui_application_93542b662f012010e79a18aa2799b65c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-16 07:26:06</sys_updated_on>
+    </sys_ui_application>
+</record_update>
